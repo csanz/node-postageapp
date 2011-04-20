@@ -1,0 +1,22 @@
+{
+    "name":         "postageapp",
+    "description":  "PostageApp Node.js Module for easier way to send email from web apps",
+    "keywords":     ["postageapp", "module", "github"],
+    "author":       "Christian Sanz <chrissanz@gmail.com>",
+    "version":      "0.0.1",
+    "licenses":     [{
+      "type":       "MIT",
+      "url":        "http://github.com/csanz/node-postageapp/raw/master/LICENSE"
+    }],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/csanz/node-postageapp.git" 
+    },
+    "engines":      {
+      "node":       ">=0.4.0"
+    },
+    "dependencies": {
+      "optimist": ">= 0.1.5"
+    },
+    "main" : "./lib/postageapp"
+}
