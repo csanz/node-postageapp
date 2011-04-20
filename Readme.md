@@ -1,4 +1,4 @@
-node-postageapp
+node-postageapp (coming soon!)
 =====
 
 PostageApp Node.js Module for easier way to send email from web apps
